@@ -70,7 +70,7 @@ section {
 
 .article h1 {
 	color: #ffffff;
-	font-size: 40px;
+	font-size: 50px;
 }
 
 .article p {
@@ -110,7 +110,7 @@ footer p {
 #latest h1 {
 	color: #ffffff;
 	padding-bottom: 10px;
-	font-size: 40px;
+	font-size: 50px;
 }
 
 
@@ -121,13 +121,13 @@ footer p {
 #howitworks h1 {
 	color: #ffffff;
 	padding-bottom: 10px;
-	font-size: 40px;
+	font-size: 50px;
 }
 
 #howitworks p {
 	color: #ffffff;
 	padding-bottom: 10px;
-	font-size: 30px;
+	font-size: 25px;
 }
 
 
@@ -136,6 +136,12 @@ footer p {
 }
 
 #faq h1 {
+	color: #ffffff;
+	padding-bottom: 10px;
+	font-size: 50px;
+}
+
+#faq p {
 	color: #ffffff;
 	padding-bottom: 10px;
 	font-size: 40px;
@@ -149,10 +155,16 @@ footer p {
 #contact h1 {
 	color: #ffffff;
 	padding-bottom: 10px;
-	font-size: 40px;
+	font-size: 50px;
 }
 
 #contact p {
+	color: #ffffff;
+	padding-bottom: 10px;
+	font-size: 40px;
+}
+
+#contact a {
 	color: #ffffff;
 	padding-bottom: 10px;
 	font-size: 40px;
