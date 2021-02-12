@@ -113,6 +113,12 @@ footer p {
 	font-size: 50px;
 }
 
+#latest p {
+	color: #ffffff;
+	padding-bottom: 10px;
+	font-size: 25px;
+}
+
 
 #howitworks {
 	margin: 15px;
