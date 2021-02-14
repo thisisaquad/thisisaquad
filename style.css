@@ -136,6 +136,11 @@ footer p {
 	font-size: 25px;
 }
 
+#howitworks mark {
+	background-color: white;
+	color: black;
+}
+
 
 #faq {
 	margin: 15px;
